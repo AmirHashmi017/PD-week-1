@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 main()
-{	
+{	system("color 27");
 	cout<<" MY BUSINESS APPLICATION"<<endl;
 
 	cout<<"          ###         ###     #######  ##########        #######    #########  #######   ##########   ######   #          "<<endl;
@@ -13,11 +13,18 @@ main()
 	cout<<"            ##      ##        #######      #             #          #       #  #   #         #       #      #  #            "<<endl;
 	cout<<"              ######                                     #          #########  #     #       #       #      #  ##########   "<<endl;
 	cout<<""<<endl;
-	
-	cout<<"MY GAME CHARACTER"<<endl;
-
-	system("color 27");
-
+	cout<<"My Game Header"<<endl;
+ 	cout<<""<<endl;
+	cout<<"### ##    ##    ## ##   ##   ##   ##   ###  ##"<<endl;
+	cout<<" ##  ##    ##  ##   ##   ## ##     ##    ## ##"<<endl;
+	cout<<" ##  ##  ## ## ##       # ### #  ## ##  # ## #"<<endl;
+	cout<<" ##  ##  ## ## ##       ## # ##  ## ##  ## ##"<<endl;
+	cout<<" ## ##   ## ## ##       ##   ##  ## ##  ##  ##"<<endl;
+	cout<<" ##      ## ## ##   ##  ##   ##  ## ##  ##  ##"<<endl;
+	cout<<"###      ## ##  ##  ##  ##   ##  ## ##  ##  ##"<<endl;
+	cout<<""<<endl;
+ 	cout<<"MY GAME CHARACTER"<<endl;
+ 
 	cout<<"              '._			"<<endl;
 	cout<<"		     '. .        ---'		"<<endl;
 	cout<<"                . !_...._/'-''		"<<endl;
